@@ -1,0 +1,131 @@
+{
+    "cnt": 3,
+    "list": [
+        {
+            "coord": {
+                "lon": 37.62,
+                "lat": 55.75
+            },
+            "sys": {
+                "type": 1,
+                "id": 7323,
+                "message": 0.0038,
+                "country": "RU",
+                "sunrise": 1519964173,
+                "sunset": 1520003265
+            },
+            "weather": [
+                {
+                    "id": 600,
+                    "main": "Snow",
+                    "description": "light snow",
+                    "icon": "13n"
+                }
+            ],
+            "main": {
+                "temp": -12.34,
+                "pressure": 1017,
+                "humidity": 85,
+                "temp_min": -13,
+                "temp_max": -11
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 1,
+                "deg": 160
+            },
+            "clouds": {
+                "all": 0
+            },
+            "dt": 1520032999,
+            "id": 524901,
+            "name": "Moscow"
+        },
+        {
+            "coord": {
+                "lon": 30.52,
+                "lat": 50.43
+            },
+            "sys": {
+                "type": 1,
+                "id": 7358,
+                "message": 0.0121,
+                "country": "UA",
+                "sunrise": 1519965485,
+                "sunset": 1520005351
+            },
+            "weather": [
+                {
+                    "id": 621,
+                    "main": "Snow",
+                    "description": "shower snow",
+                    "icon": "13n"
+                }
+            ],
+            "main": {
+                "temp": -6.03,
+                "pressure": 1002,
+                "humidity": 92,
+                "temp_min": -9,
+                "temp_max": -4
+            },
+            "visibility": 1800,
+            "wind": {
+                "speed": 5,
+                "deg": 100
+            },
+            "clouds": {
+                "all": 90
+            },
+            "dt": 1520032999,
+            "id": 703448,
+            "name": "Kiev"
+        },
+        {
+            "coord": {
+                "lon": -0.13,
+                "lat": 51.51
+            },
+            "sys": {
+                "type": 1,
+                "id": 5091,
+                "message": 0.0048,
+                "country": "GB",
+                "sunrise": 1519972901,
+                "sunset": 1520012646
+            },
+            "weather": [
+                {
+                    "id": 721,
+                    "main": "Haze",
+                    "description": "haze",
+                    "icon": "50n"
+                },
+                {
+                    "id": 701,
+                    "main": "Mist",
+                    "description": "mist",
+                    "icon": "50n"
+                }
+            ],
+            "main": {
+                "temp": -0.13,
+                "pressure": 993,
+                "humidity": 98,
+                "temp_min": -1,
+                "temp_max": 1
+            },
+            "visibility": 2600,
+            "wind": {
+                "speed": 7.2,
+                "deg": 90
+            },
+            "clouds": {
+                "all": 90
+            },
+            "dt": 1520032999,
+            "id": 2643743,
+            "name": "London"
+        }
+    ]
+}
