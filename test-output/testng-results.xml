@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5047" started-at="2018-03-05T00:07:20Z" finished-at="2018-03-05T00:07:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5047" started-at="2018-03-05T00:07:20Z" finished-at="2018-03-05T00:07:25Z">
+      <class name="com.qa.weatherTests.Test1_GetRequest">
+        <test-method status="PASS" signature="getWeatherDataUsingCityID()[pri:0, instance:com.qa.weatherTests.Test1_GetRequest@14acaea5]" name="getWeatherDataUsingCityID" duration-ms="2229" started-at="2018-03-04T16:07:20Z" finished-at="2018-03-04T16:07:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWeatherDataUsingCityID -->
+        <test-method status="PASS" signature="getWeatherUsingCityName()[pri:0, instance:com.qa.weatherTests.Test1_GetRequest@14acaea5]" name="getWeatherUsingCityName" duration-ms="243" started-at="2018-03-04T16:07:22Z" finished-at="2018-03-04T16:07:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWeatherUsingCityName -->
+        <test-method status="PASS" signature="getWeatherUsingGeographicCoordinates()[pri:0, instance:com.qa.weatherTests.Test1_GetRequest@14acaea5]" name="getWeatherUsingGeographicCoordinates" duration-ms="350" started-at="2018-03-04T16:07:22Z" finished-at="2018-03-04T16:07:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWeatherUsingGeographicCoordinates -->
+        <test-method status="PASS" signature="getWeatherUsingGroupID()[pri:0, instance:com.qa.weatherTests.Test1_GetRequest@14acaea5]" name="getWeatherUsingGroupID" duration-ms="1051" started-at="2018-03-04T16:07:23Z" finished-at="2018-03-04T16:07:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWeatherUsingGroupID -->
+        <test-method status="PASS" signature="getWeatherUsingGroupIDTest2()[pri:0, instance:com.qa.weatherTests.Test1_GetRequest@14acaea5]" name="getWeatherUsingGroupIDTest2" duration-ms="830" started-at="2018-03-04T16:07:24Z" finished-at="2018-03-04T16:07:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWeatherUsingGroupIDTest2 -->
+        <test-method status="PASS" signature="getWeatherUsingGroupIDTest3()[pri:0, instance:com.qa.weatherTests.Test1_GetRequest@14acaea5]" name="getWeatherUsingGroupIDTest3" duration-ms="281" started-at="2018-03-04T16:07:25Z" finished-at="2018-03-04T16:07:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWeatherUsingGroupIDTest3 -->
+      </class> <!-- com.qa.weatherTests.Test1_GetRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
