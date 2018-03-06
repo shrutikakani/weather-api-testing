@@ -1,0 +1,14 @@
+<?xml-stylesheet type="text/xsl" href=""?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="API Automation TestSuite">
+	<listeners>
+		<listener class-name="com.qa.listener.ExtentReporterNG" />
+	</listeners>
+
+	<test name="WebAPI Test">
+		<classes>
+			<class name="com.qa.weatherTests.Test1_GetRequest"></class>
+		</classes>
+	</test>
+</suite>
